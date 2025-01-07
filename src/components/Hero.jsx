@@ -20,7 +20,7 @@ const Hero = ({ isCoderProfile, toggleProfile }) => { /* accept the args passed 
         >
           <div className="relative flex flex-col items-center">
             <img // editor image
-              src="public/editor_profile.png"
+              src="./editor_profile.png"
               alt="Video Editor"
               className="h-52 w-52 lg:h-96 lg:w-96 md:h-72 md:w-72 object-cover rounded-lg shadow-lg"
             />
@@ -46,7 +46,7 @@ const Hero = ({ isCoderProfile, toggleProfile }) => { /* accept the args passed 
         >
           <div className="relative flex flex-col items-center">
             <img //coder image
-              src="public/coder_profile.png"
+              src="coder_profile.png"
               alt="Coder"
               className="h-52 w-52 lg:h-96 lg:w-96 md:h-72 md:w-72 object-cover rounded-lg shadow-lg"
             />
