@@ -11,7 +11,7 @@ const Folio_web = () => {
         {/* embedded webpage container */}
         <div className="w-full h-0 pb-[56.25%] relative">
           <iframe // using iframe tag to embed the website
-            src="http://localhost:5173/"
+            src="http://shahanxd.vercel.app"
             title="Folio Web Preview"
             className="absolute top-0 left-0 w-full h-full object-cover border-2 border-orange-400"
             frameBorder="0"
