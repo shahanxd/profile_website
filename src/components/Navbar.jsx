@@ -56,7 +56,6 @@ const Navbar = ({ isCoderProfile }) => {
           >
             resume
           </a>
-          </a>
           <a // leetcode
             href="https://leetcode.com/shahanxd"
             target="_blank"
