@@ -56,6 +56,15 @@ const Navbar = ({ isCoderProfile }) => {
           >
             resume
           </a>
+          </a>
+          <a // leetcode
+            href="https://leetcode.com/shahanxd"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`text-white ${isCoderProfile ? 'hover:text-orange-400' : 'hover:text-cyan-300'} transition-colors duration-200`}
+          >
+            leetcode
+          </a>
         </div>
       </div>
     </div>
